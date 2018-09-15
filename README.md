@@ -27,6 +27,6 @@ name_project
 
 ## Well, we have already created our hello world in Electron, we just have to execute it. We are located in the directory that contains our project and execute the following command:
 
-electron Example-project-with-framework-Electron
+`electron Example-project-with-framework-Electron`
 
 And we will open a window with our application.
