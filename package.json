@@ -1,5 +1,8 @@
 {
-  "name"    : "Example-project-with-framework-Electron",
-  "version" : "0.1.0",
-  "main"    : "main.js"
+  "name": "Example-project-with-framework-Electron",
+  "version": "0.1.0",
+  "main": "main.js",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
 }
