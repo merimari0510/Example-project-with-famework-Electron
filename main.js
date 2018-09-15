@@ -24,7 +24,7 @@ app.on('ready', function() {
         height: 600});
 
   //We link the index.html to said window
-  mainWindow.loadUrl('index.html');
+  mainWindow.loadFile('index.html');
 
   //We open the development options
   mainWindow.openDevTools();
