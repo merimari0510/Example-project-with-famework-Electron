@@ -1,4 +1,4 @@
-# Example-project-with-framework-Electron
+# Example project with framework Electron
 
 ## Install the global command electron
 `npm install electron-prebuilt -g`
